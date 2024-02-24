@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Fit Index</string>
+    <string name="header">Unlock your Health Potential with BMI</string>
+    <string name="bmiBtn">BMI Monitor</string>
+    <string name="content">
+            <b>What is BMI?</b>
+            \n\nBody Mass Index (BMI) is a person\'s weight in kilograms divided by the square of height in meters.
+            A high BMI can indicate high body fatness.
+            BMI screens for weight categories that may lead to health problems,
+            but it does not diagnose the body fatness or health of an individual.
+            \n
+            \nBMI is an estimate of body fat and a good gauge of your risk for diseases that can occur with more body fat.
+            The higher your BMI, the higher your risk for certain diseases such as heart disease, high blood pressure,
+            type 2 diabetes, gallstones, breathing problems, and certain cancers.
+    </string>
+    <string name="under_weight_content">\u2022 Fact About <u>UNDER WEIGHT</u></string>
+    <string name="healthy_weight_content">\u2022 Fact About <u>HEALTHY WEIGHT</u></string>
+    <string name="over_weight_content">\u2022 Fact About <u>OVER WEIGHT</u></string>
+    <string name="obese_weight_content">\u2022 Fact About <u>OBESE WEIGHT</u></string>
+    <string name="backBtn">Back</string>
+    <string name="cal">BMI Calculator</string>
+    <string name="age">Age</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="height">Height   (cm)</string>
+    <string name="weight">Weight   (kg)</string>
+    <string name="calculate">Calculate</string>
+    <string name="underweight">Underweight</string>
+    <string name="under_weight">
+
+    </string>
+</resources>
